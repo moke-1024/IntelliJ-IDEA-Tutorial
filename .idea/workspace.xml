@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:pr" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:github-desktop-judasn" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:upstream" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6834376a-26a8-4bfb-8dae-3e0ba90f5678" name="Default Changelist" comment="updat&#10;&#10;添加">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IntelliJ-IDEA-cache.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/about-this-tutorial.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cover/background.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cover/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database-introduce.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/debug-introduce.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eclipse-java-web-project-introduce.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emmet-introduce.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file-symbols-introduce.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file-templates-introduce.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first-run-wizard.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hotkey-alt-enter-introduce.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/hotkey-alt-enter-introduce-1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/hotkey-alt-enter-introduce-10.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/hotkey-alt-enter-introduce-11.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/hotkey-alt-enter-introduce-12.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/hotkey-alt-enter-introduce-13.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/hotkey-alt-enter-introduce-14.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/hotkey-alt-enter-introduce-15.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/hotkey-alt-enter-introduce-16.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/hotkey-alt-enter-introduce-2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/hotkey-alt-enter-introduce-3.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/hotkey-alt-enter-introduce-4.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/hotkey-alt-enter-introduce-5.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/hotkey-alt-enter-introduce-6.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/hotkey-alt-enter-introduce-7.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/hotkey-alt-enter-introduce-8.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/hotkey-alt-enter-introduce-9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/iii-a-first-install-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/iii-a-first-install-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/iii-a-first-install-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/iii-a-first-install-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/iii-a-first-install-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/iii-a-first-install-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/iii-a-first-install-7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/iii-b-repeatedly-install-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/iii-b-repeatedly-install-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/iii-b-repeatedly-install-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/iii-c-uninstall-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/iii-c-uninstall-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/iii-c-uninstall-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/iv-a-ubuntu-install-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/iv-a-ubuntu-install-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/iv-a-ubuntu-install-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/iv-a-ubuntu-install-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/ix-interface-introduce-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/ix-interface-introduce-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/ix-interface-introduce-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/ix-interface-introduce-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/ix-interface-introduce-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/ix-interface-introduce-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/remote-debugging-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/remote-debugging-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/remote-debugging-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/remote-debugging-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/remote-debugging-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/simple.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/v-a-mac-install-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/v-a-mac-install-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/v-a-mac-install-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/vii-a-first-run-wizard-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/vii-a-first-run-wizard-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/vii-a-first-run-wizard-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/vii-a-first-run-wizard-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/vii-a-first-run-wizard-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/vii-a-first-run-wizard-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/vii-a-first-run-wizard-7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/viii-a-configuration-files-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/viii-a-configuration-files-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/viii-a-installation-directory-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/viii-a-installation-directory-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/viii-a-setting-synchronize-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/viii-b-mac-vm-settings-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/weixin.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/x-a-theme-setting-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/x-b-font-setting-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/x-b-font-setting-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/x-b-font-setting-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/x-c-code-theme-setting-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/x-c-code-theme-setting-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/x-d-encoding-setting-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/x-d-encoding-setting-2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/x-e-encoding-setting-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xi-a-file-symbols-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xi-a-file-symbols-2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xi-a-file-symbols-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xi-b-file-symbols-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xi-b-file-symbols-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xii-a-invalidate-cache-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xii-a-invalidate-cache-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xii-a-invalidate-cache-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xiii-a-make-introduce-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xiii-b-befour-launch-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xiii-b-befour-launch-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xiii-c-compiler-setting-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xiii-c-compiler-setting-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xiii-c-compiler-setting-3.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xiv-a-project-and-module-introduce-1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xiv-b-sdk-introduce-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xiv-b-sdk-introduce-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xiv-c-language-level-introduce-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xiv-c-language-level-introduce-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xiv-d-module-setting-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xiv-d-module-setting-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xix-a-emmet-introduce-1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xix-a-emmet-introduce-2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xix-b-emmet-settings-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xix-b-emmet-settings-2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xix-b-emmet-settings-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xix-c-postfix-completion-introduce-1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xix-d-postfix-completion-settings-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xv-a-project-create-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xv-a-project-create-10.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xv-a-project-create-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xv-a-project-create-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xv-a-project-create-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xv-a-project-create-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xv-a-project-create-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xv-a-project-create-7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xv-a-project-create-8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xv-a-project-create-9.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xv-b-project-introduce-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xvi-a-version-control-system-introduce-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xvi-b-version-control-system-svn-introduce-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xvi-b-version-control-system-svn-introduce-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xvi-c-version-control-system-git-introduce-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xvi-d-version-control-system-github-introduce-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xvi-d-version-control-system-github-introduce-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xvi-d-version-control-system-github-introduce-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xvi-d-version-control-system-github-introduce-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xvi-e-version-control-system-operation-introduce-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xvi-e-version-control-system-operation-introduce-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xvi-e-version-control-system-operation-introduce-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xvi-e-version-control-system-operation-introduce-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xvi-f-version-control-system-settings-introduce-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xvi-f-version-control-system-settings-introduce-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xvi-f-version-control-system-settings-introduce-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xvi-f-version-control-system-settings-introduce-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xvi-f-version-control-system-settings-introduce-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xvi-g-svn-feature-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xvi-g-svn-feature-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xvii-a-live-templates-introduce-1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xvii-a-live-templates-introduce-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xvii-b-live-templates-settings-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xvii-b-live-templates-settings-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xvii-c-live-templates-variables-settings-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xvii-d-live-templates-surround-settings-1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xviii-a-file-and-code-templates-introduce-1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xviii-a-file-and-code-templates-introduce-2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xviii-b-file-and-code-templates-settings-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xviii-b-file-and-code-templates-settings-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xviii-b-file-and-code-templates-settings-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xviii-b-file-and-code-templates-settings-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xviii-b-file-and-code-templates-settings-5.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xviii-b-file-and-code-templates-settings-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xviii-b-file-and-code-templates-settings-7.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xx-a-plugins-settings-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xx-a-plugins-settings-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xx-a-plugins-settings-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xx-b-plugins-install-1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xx-b-plugins-install-2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xxi-a-eclipse-project-introduce-1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xxi-b-eclipse-project-settings-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xxi-b-eclipse-project-settings-10.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xxi-b-eclipse-project-settings-11.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xxi-b-eclipse-project-settings-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xxi-b-eclipse-project-settings-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xxi-b-eclipse-project-settings-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xxi-b-eclipse-project-settings-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xxi-b-eclipse-project-settings-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xxi-b-eclipse-project-settings-7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xxi-b-eclipse-project-settings-8.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xxi-b-eclipse-project-settings-9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xxi-c-eclipse-project-tomcat-settings-1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xxi-c-eclipse-project-tomcat-settings-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xxi-c-eclipse-project-tomcat-settings-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xxi-d-eclipse-project-tomcat-run-1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xxi-d-eclipse-project-tomcat-run-2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xxi-d-eclipse-project-tomcat-run-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xxi-e-eclipse-project-output-war-1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xxi-e-eclipse-project-tomcat-stop-1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xxii-a-maven-setting-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xxii-a-maven-setting-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xxii-b-maven-hello-world-project-1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xxii-b-maven-hello-world-project-2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xxii-c-maven-component-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xxii-d-maven-tomcat-run-1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xxii-e-maven-dependent-exclude-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xxii-e-maven-dependent-exclude-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xxiii-a-debug-settings-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xxiii-b-debug-use-1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xxiii-b-debug-use-2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xxiii-b-debug-use-3.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xxiii-b-debug-use-4.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xxiii-b-debug-use-5.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xxiv-a-refactor-introduce-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xxiv-a-refactor-introduce-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xxv-a-database-connection-1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xxv-b-database-settings-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xxvi-a-settings-introduce-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xxvi-a-settings-introduce-10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xxvi-a-settings-introduce-11.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xxvi-a-settings-introduce-12.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xxvi-a-settings-introduce-13.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xxvi-a-settings-introduce-14.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xxvi-a-settings-introduce-15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xxvi-a-settings-introduce-16.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xxvi-a-settings-introduce-17.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xxvi-a-settings-introduce-18.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xxvi-a-settings-introduce-19.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xxvi-a-settings-introduce-2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xxvi-a-settings-introduce-20.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xxvi-a-settings-introduce-21.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xxvi-a-settings-introduce-22.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xxvi-a-settings-introduce-23.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xxvi-a-settings-introduce-24.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xxvi-a-settings-introduce-25.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xxvi-a-settings-introduce-26.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xxvi-a-settings-introduce-27.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xxvi-a-settings-introduce-28.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xxvi-a-settings-introduce-29.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xxvi-a-settings-introduce-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xxvi-a-settings-introduce-30.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xxvi-a-settings-introduce-31.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xxvi-a-settings-introduce-32.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xxvi-a-settings-introduce-33.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xxvi-a-settings-introduce-34.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xxvi-a-settings-introduce-35.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xxvi-a-settings-introduce-36.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xxvi-a-settings-introduce-37.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xxvi-a-settings-introduce-38.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xxvi-a-settings-introduce-39.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xxvi-a-settings-introduce-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xxvi-a-settings-introduce-40.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xxvi-a-settings-introduce-41.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xxvi-a-settings-introduce-5.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xxvi-a-settings-introduce-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xxvi-a-settings-introduce-7.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xxvi-a-settings-introduce-8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xxvi-a-settings-introduce-9.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xxvii-a-keymap-setting-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xxvii-a-keymap-setting-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xxvii-a-keymap-setting-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xxvii-b-ideavim-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xxvii-c-keymap-premise-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xxvii-c-keymap-premise-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xxvii-c-keymap-premise-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xxvii-d-keymap-learn-1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xxviii-jrebel-setup-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xxviii-jrebel-setup-10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xxviii-jrebel-setup-11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xxviii-jrebel-setup-12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xxviii-jrebel-setup-13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xxviii-jrebel-setup-14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xxviii-jrebel-setup-15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xxviii-jrebel-setup-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xxviii-jrebel-setup-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xxviii-jrebel-setup-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xxviii-jrebel-setup-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xxviii-jrebel-setup-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xxviii-jrebel-setup-7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xxviii-jrebel-setup-8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xxviii-jrebel-setup-9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install-summarize.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/installation-directory-introduce.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interface-introduce.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/introduce.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jrebel-setup.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/keymap-introduce.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/keymap-mac-introduce.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/keymap-win-mac.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/live-templates-introduce.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mac-install.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/make-introduce.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maven-java-web-project-introduce.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maven-java-web-project-introduce2.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maven-project-introduce.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins-develop.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins-settings.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/postfix-completion-introduce.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project-composition-introduce.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project-settings.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/refactor-introduce.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/remote-debugging.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings-introduce-1.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings-introduce-2.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings-introduce-3.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings-introduce-4.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/theme-settings.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/this-tutorial-the-end.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ubuntu-install.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vcs-introduce.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/index.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1cS9QZjrw6jXE9H9RmOfdUzvL53" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\360MoveData\Users\Administrator\Documents\GitHub\IntelliJ-IDEA-Tutorial" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\360MoveData\Users\Administrator\Documents\GitHub\IntelliJ-IDEA-Tutorial" />
+      <recent name="E:\360MoveData\Users\Administrator\Documents\GitHub\IntelliJ-IDEA-Tutorial\.idea" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6834376a-26a8-4bfb-8dae-3e0ba90f5678" name="Default Changelist" comment="" />
+      <created>1590511112010</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590511112010</updated>
+      <workItem from="1590511115497" duration="35000" />
+      <workItem from="1590511223431" duration="232000" />
+      <workItem from="1590511966444" duration="1715000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1037" y="145" key="FileChooserDialogImpl" timestamp="1590512241009">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1037" y="145" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1590512241009" />
+  </component>
+</project>
