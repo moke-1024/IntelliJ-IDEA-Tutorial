@@ -1,5 +1,3 @@
-#重要说明，看三遍
-
 ## 介绍(Introduce)
 
 - 本套教程适用于：IntelliJ IDEA 14、15、2016 版本
@@ -24,8 +22,8 @@
 
 ## 目录(Contents)
 
-- [1.IntelliJ IDEA 介绍（新用户必看）](introduce.md)
-- [2.本教程介绍（新用户必看）](about-this-tutorial.md)
+- [1.IntelliJ IDEA 介绍（新用户必看）](https://github.com/moke-1024/IntelliJ-IDEA-Tutorial/blob/newMaster/introduce.md)
+- [2.本教程介绍（新用户必看）](https://github.com/moke-1024/IntelliJ-IDEA-Tutorial/blob/newMaster/about-this-tutorial.md)
 - [3.Windows 下安装](windows-install.md)
 - [4.Ubuntu 下安装](ubuntu-install.md)
 - [5.Mac 下安装](mac-install.md)
