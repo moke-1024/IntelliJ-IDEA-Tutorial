@@ -1,22 +1,4 @@
-## 团队 DevOps 方案参考
-
-<a target="_blank" href="https://coding.net/?utm_source=judasn">
-<img id="judasn" src="https://upload-images.jianshu.io/upload_images/12159-e3279861ff8655c9.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240">
-</a>
-
-## 只有上云才能撑住规模化后的发展
-
-- 初期技术选型上尽可能寻找云支持的
-- 在公司规模小，自建服务基本都做不到 99.999% 高可用
-- 在公司规模发展变迅速时，如果云技术和已有技术契合，迁移成本会低很多很多
-- 目前暂定只选择：[阿里云服务](https://www.aliyun.com/minisite/goods?userCode=v2zozyxz)
-- 这里罗列了阿里云常用的一些：[产品](https://github.com/cdk8s/cdk8s-team-style/blob/master/ops/aliyun.md)
-
-## 新的起点
-
-- [Sculptor Boot：项目思维化的《代码生成器》体系（未来可期，做个朋友吧）](https://github.com/cdk8s/sculptor-boot-generator)
-- CDK8S：<https://mp.weixin.qq.com/s/fITEVy3IEhI4HOyTXRp9ig>
-- TKey：<https://www.oschina.net/p/tkey>
+# IntelliJ IDEA 教程
 
 ## 介绍(Introduce)
 
@@ -39,10 +21,9 @@
     - 有的 Gif 动态图片操作过快，你需要暂停 Gif 图片进行观看的话，可以使用这个 Gif 图片查看工具：[7GIF（提取密码：0qo9）](https://pan.baidu.com/s/1mkrESsg)
 - 同时邀请您一起参与完善该教程，帮助更多的人，欢迎反馈错误和意见！
 - 如果你想参与完善该教程，请移步到 Github 上进行 Fork：
-    - 地址：<https://github.com/judasn/IntelliJ-IDEA-Tutorial/>
+    - 地址：<https://github.com/moke-1024/IntelliJ-IDEA-Tutorial>
 - 如果你需要一份电子版，请查看（制作电子版很费精力，不会常更新此文件）：
     - 百度云：<http://pan.baidu.com/s/1i3wFYPB>
-    - Google Drive：[https://drive.google.com/file/d/0B5...UU/view?usp=sharing](https://drive.google.com/file/d/0B5gjjw8peC5Sa19vVEswbTRYYUU/view?usp=sharing "Google Drive")
 - GitBook 在线阅读地址：<https://youmeek.gitbooks.io/intellij-idea-tutorial/content/>
 - [关于咕泡学院的教程：《IntelliJ IDEA使用教程》侵权说明](http://www.youmeek.com/intellij-idea-tutorial-infringement/)
 - [IntelliJ IDEA-Windows-新手必备基础配置整理（密码：z1uo）](http://pan.baidu.com/s/1nvfzKTj)
@@ -129,7 +110,7 @@
     - 百度云盘：<http://pan.baidu.com/s/1bogmTLd>
 
 
-> ####常用按钮说明:
+> 常用按钮说明:
 >- Watch：关注该项目，作者有更新的时候，会在你的 Github 主页有通知消息。
 >- Star：收藏该项目，在你的头像上有一个 “Your stars” 链接，可以看到你的收藏列表，以方便下次进来。
 >- Fork：复制一份项目到自己的 Github 空间上，你可以自己开发自己的这个地址项目，然后 Pull Request 给项目原主人。 
@@ -147,3 +128,23 @@
 - GitHub Code：<https://github.com/moke-1024/IntelliJ-IDEA-Tutorial>
 - [推荐：程序员的个性化网址导航：GitNavi.com](http://www.gitnavi.com/u/judasn/)
 - [适合后端开发者的前端 React-Admin](https://github.com/satan31415/umi-admin)
+
+## 新的起点
+
+- [Sculptor Boot：项目思维化的《代码生成器》体系（未来可期，做个朋友吧）](https://github.com/cdk8s/sculptor-boot-generator)
+- CDK8S：<https://mp.weixin.qq.com/s/fITEVy3IEhI4HOyTXRp9ig>
+- TKey：<https://www.oschina.net/p/tkey>
+
+## 只有上云才能撑住规模化后的发展
+
+- 初期技术选型上尽可能寻找云支持的
+- 在公司规模小，自建服务基本都做不到 99.999% 高可用
+- 在公司规模发展变迅速时，如果云技术和已有技术契合，迁移成本会低很多很多
+- 目前暂定只选择：[阿里云服务](https://www.aliyun.com/minisite/goods?userCode=v2zozyxz)
+- 这里罗列了阿里云常用的一些：[产品](https://github.com/cdk8s/cdk8s-team-style/blob/master/ops/aliyun.md)
+
+## 团队 DevOps 方案参考
+
+<a target="_blank" href="https://coding.net/?utm_source=judasn">
+<img id="judasn" src="https://upload-images.jianshu.io/upload_images/12159-e3279861ff8655c9.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240">
+</a>
