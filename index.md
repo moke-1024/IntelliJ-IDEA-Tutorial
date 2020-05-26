@@ -92,23 +92,3 @@
 - Fork：复制一份项目到自己的 Github 空间上，你可以自己开发自己的这个地址项目，然后 Pull Request 给项目原主人。 
 
 
-## 参与作者汇总(Author)
-
-- 真心感谢这些志同道合的人，这个真的很重要，也希望你能一起参与（鞠躬）！
-- 同时感谢那些通过私聊方式指出一些错误地方的朋友，使得该教程能得以更加完善，真心感谢（鞠躬）！
-
-
-|作者(按参与时间排序)|地址|
-|:---------|:---------|
-|Judas.n|<http://code.YouMeek.com>|
-|温泉|<https://github.com/wenquan0hf>|
-|zhenhappy|<https://github.com/zhenhappy>|
-|two8g|<https://github.com/two8g>|
-|Dectinc|<https://github.com/Dectinc>|
-|Caliven|<https://github.com/caliven>|
-|MinjieTao|<https://github.com/MinjieTao>|
-|classloader|<https://github.com/classloader>|
-|challengeof|<https://github.com/challengeof>|
-|district10|<https://github.com/district10>|
-|duanluan|<https://github.com/duanluan>|
-
